@@ -1,0 +1,24 @@
+.mainContent .FOHATitle h1{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(70, 70, 81);
+    position: relative;
+    top: 50px;
+}
+.mainContent{
+    height: 150px;
+    background-color: #EDF2F7;
+}
+.spacer{
+    height: 50px;
+    background-color: white;
+}
+.aboutInfo{
+    margin: 0 10% 10% 10%;
+    padding: 20px;
+    box-shadow:
+      inset 0 -3em 3em rgb(255, 255, 255),
+      0 0 0 2px white,
+      0.5em 0.3em 1em rgb(130 130 155);
+    font-size: 17px;
+  }

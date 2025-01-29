@@ -1,0 +1,41 @@
+header nav ul li{
+    position: relative;
+    top: -27px;
+    list-style: none;
+
+}
+header nav ul li a{
+    text-decoration: none;
+    background-color: rgba(128, 128, 128, 0);
+    margin: 1px;
+    color: rgb(82, 81, 81);
+
+}
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: #48BAEC;
+    padding: 20px;
+    height: 40px;
+    font-size: 30px;
+}
+footer{
+    background-color: #48BAEC;
+    color: rgb(82, 81, 81);
+    padding: 20px;
+    height: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    
+}
