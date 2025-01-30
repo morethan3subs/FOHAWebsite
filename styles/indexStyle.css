@@ -21,4 +21,61 @@
       0 0 0 2px white,
       0.5em 0.3em 1em rgb(130 130 155);
     font-size: 17px;
-  }
+}
+
+.aboutInfo p{
+    font-size: 17px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    text-decoration: default;
+}
+
+.aboutInfo h3 a{
+    font-size: 25px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    position: relative;
+    top: 10px;
+    text-decoration: default;
+}
+
+.aboutInfo h2{
+    font-size: 32px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    position: relative;
+    top: 10px;
+    text-decoration: default;
+}
+
+.aboutInfo h3{
+    font-size: 25px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    position: relative;
+    top: 10px;
+    text-decoration: default;
+}
+
+.aboutInfo h4{
+    font-size: 20px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    position: relative;
+    top: 10px;
+    text-decoration: default;
+}
+
+.aboutInfo ul li a{
+    font-size: 17px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    text-decoration: default;
+}
+
+.aboutInfo ul li{
+    font-size: 17px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    text-decoration: none;
+}
