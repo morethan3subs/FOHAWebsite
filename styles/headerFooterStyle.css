@@ -37,7 +37,8 @@ footer{
     font-size: 20px;
     text-align: center;
     display: block;
-    position: fixed;
+    position: relative;
+    top: 20px;
     left: 0;
     bottom: 0;
     width: 100%;
