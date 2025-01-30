@@ -5,14 +5,22 @@
     position: relative;
     top: 50px;
 }
+
 .mainContent{
     height: 150px;
     background-color: #EDF2F7;
 }
+
 .spacer{
     height: 50px;
     background-color: white;
 }
+
+.miniSpacer{
+    height: 20px;
+    background-color: white;
+}
+
 .aboutInfo{
     margin: 0 10% 10% 10%;
     padding: 20px;
@@ -78,4 +86,27 @@
     text-align: left;
     color: rgb(70, 70, 81);
     text-decoration: none;
+}
+
+.italicizedSideNote{
+    font-style: italic;
+    font-size: 13px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    text-decoration: default;
+}
+
+.questionsAbtMembership{
+    font-size: 17px;
+    text-align: left;
+    padding: 0 0 0 1.5%;
+    color: rgb(70, 70, 81);
+    text-decoration: default;
+}
+
+.questionsAbtMembership a{
+    font-size: 17px;
+    text-align: left;
+    color: rgb(70, 70, 81);
+    text-decoration: underline;
 }
